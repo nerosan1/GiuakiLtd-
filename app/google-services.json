@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266354164661",
+    "project_id": "ecomer-70ad5",
+    "storage_bucket": "ecomer-70ad5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266354164661:android:0e741c03d597d70120cffc",
+        "android_client_info": {
+          "package_name": "com.example.ecomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIF3sL5A31NthlIaMB9tNv0-a2f1USCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
